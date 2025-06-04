@@ -24,7 +24,12 @@ A simple, responsive calculator web application built with HTML, CSS, and JavaSc
 You can try the live demo here:  https://eh-vee.github.io/Calculator/
 
 
+
+
 Screenshot
+
+(https://github.com/user-attachments/assets/c1de35b3-30ab-4279-8305-ad2b4313e585)
+
 
 
 
@@ -32,7 +37,9 @@ License
 
 This project is licensed under the MIT License.
 
-Author
+
+
+Author:
 
 Evelyn Vasquez
 
