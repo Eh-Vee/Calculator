@@ -1,5 +1,5 @@
 body {
-  background: gray;
+  background: ;
   display: flex;
   height: 100vh;
   justify-content: center;
@@ -22,7 +22,7 @@ body {
   text-align: right;
   padding: 0 10px;
   margin-bottom: 1rem;
-  border: 1px solid whitesmoke;
+  border: 1px solid #ddd;
   border-radius: 6px;
 }
 
@@ -37,7 +37,7 @@ button {
   font-size: 1.2rem;
   border: none;
   border-radius: 8px;
-  background: gainsboro;
+  background: #eaeaea;
   cursor: pointer;
   transition: background 0.2s;
 }
