@@ -21,8 +21,6 @@ A simple, responsive calculator web application built with HTML, CSS, and JavaSc
    ```bash
    git clone https://github.com/Eh-Vee/Calculator.git
 
-   Demo
-
 You can try the live demo here:  https://eh-vee.github.io/Calculator/
 
 
