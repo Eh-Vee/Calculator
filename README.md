@@ -28,7 +28,8 @@ You can try the live demo here:  https://eh-vee.github.io/Calculator/
 
 Screenshot
 
-(https://github.com/user-attachments/assets/c1de35b3-30ab-4279-8305-ad2b4313e585)
+![Screenshot 2025-06-04 at 09 04 18](https://github.com/user-attachments/assets/706b6d74-5d5b-4d0f-8a92-13a8973a21f9)
+
 
 
 
